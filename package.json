@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/anthonycarella/FG-Character-Select-Generator.git"
+    "url": "git@github.com:anthonycarella/FG-Character-Select-Generator.git"
   },
   "author": "Anthony Carella",
   "license": "ISC",
