@@ -1,2 +1,2 @@
 # fg-character-select
-A fighting game character select builder, built in Typescript.
+A fighting game character select generator, built in Typescript.
