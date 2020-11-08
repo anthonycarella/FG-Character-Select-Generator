@@ -1,0 +1,22 @@
+{
+  "name": "fg-character-select-generator",
+  "version": "1.0.0",
+  "description": "fighting game character select builder, built in typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anthonycarella/FG-Character-Select-Generator.git"
+  },
+  "author": "Anthony Carella",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anthonycarella/FG-Character-Select-Generator/issues"
+  },
+  "homepage": "https://github.com/anthonycarella/FG-Character-Select-Generator#readme",
+  "devDependencies": {
+    "typescript": "^4.0.5"
+  }
+}
